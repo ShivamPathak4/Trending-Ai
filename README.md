@@ -139,7 +139,6 @@ AI-Tool-Explorer/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
-│   │   ├── pages/
 │   │   ├── redux/
 │   │   ├── utils/
 │   │   ├── App.js
